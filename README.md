@@ -2,7 +2,8 @@
 
 ## Watch the Robot Play Tic-Tac-Toe!
 
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg](https://drive.google.com/file/d/1dvYn2lFY3NqIqmVdaKK_znK826Zz8VBn/view?usp=sharing))](https://drive.google.com/uc?export=download&id=10RaAHnCLhKEGvXo0bGbKkWrGrHZDSJ9s)
+[![Watch the video](https://img.youtube.com/vi/LMVsLX6jzWs/maxresdefault.jpg)](https://youtu.be/LMVsLX6jzWs)
+
 
 
 Welcome to the Robot Tic-Tac-Toe project! This repository contains the code for a Tic-Tac-Toe game where you can play against a robot powered by AI. The project demonstrates fundamental concepts of game theory and artificial intelligence, making it an educational tool as well as a fun game to play.
